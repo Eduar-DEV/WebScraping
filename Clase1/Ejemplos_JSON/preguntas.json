@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "ImportError: cannot import name 'Mxfp4Config'",
+        "descripcion": "My source code https://github.com/donhuvy/TensorRT-Model-Optimizer/blob/main/examples/gpt-oss/qat-finetune-transformers.ipynb . My environment: Windows 11, PyCharm 2025.2 Ultimate, NVIDIA RTX 5090 - ..."
+    },
+    {
+        "titulo": "How to properly handle WebSocket of an API that acts as a middle layer between a client (frontend) and another 3rd-party API",
+        "descripcion": "We have an API that acts as a middle layer between a client (frontend) and a 3rd-party API. As for its WebSocket endpoint, it currently accepts a message (JSON) and a CancellationToken from the client,..."
+    },
+    {
+        "titulo": "How to push Eclipse Java Project to Github?",
+        "descripcion": "For a class, we're supposed to create a project on Eclipse then push it to our github repository. However, when I try to do so and log in with my github information, it doesn't work. First, we were ..."
+    },
+    {
+        "titulo": "on Ubuntu My new Lucee installation does not recognize my ROOT/reports file",
+        "descripcion": "Just installed Lucee 5.4.8.2 on Ubuntu 22.04.5.  In the ROOT section of the path I installed a folder called \"reports\", which holds all of my programs.  This is how I have it on my older ..."
+    },
+    {
+        "titulo": "Why are my images in HTML not being displayed despite the links being correct?",
+        "descripcion": "For some reason, my HTML images won't load. I double checked, and I'm extremely confident that the link is correct. However, the images won't seem to load? By the way, when I was messing around with ..."
+    },
+    {
+        "titulo": "Problem using ffmpeg to remove silence at beginning of audio file",
+        "descripcion": "I am working with some mp3 audio files and sometimes find it necessary to remove the silence at the beginning of them.  By searching with google, the AI suggested that I use the following ffmpeg ..."
+    },
+    {
+        "titulo": "Chrome throwing an error for a line that has been commented out already",
+        "descripcion": "The following line is commented out, but still throwing an error. Why would console still throw an error for a line that is already commented out? I have commented it out using // as well as `/...../ ..."
+    },
+    {
+        "titulo": "Unit tests for drools rules",
+        "descripcion": "I'm in the process of writing tests for drools rules as we have to migrate drools from 5.6 to 7.4. Existing rules stopped respecting salience after the update, therefore I wrote a test suite to ..."
+    },
+    {
+        "titulo": "PHP change button color on click",
+        "descripcion": "I previously asked this question - someone didn't like it, said it couldn't be done, and locked any answer out.  So I'll start again.  I'm starting a project to replace the control board for our hot ..."
+    },
+    {
+        "titulo": "splitting a data frame in a way like dealing cards",
+        "descripcion": "I have a data frame of students sorted by grade that I want to split into 3 data frames, such that an even number of students per grade is in each of the 3 groups. I thought of it like dealing cards, ..."
+    },
+    {
+        "titulo": "How to deal with \"DDGSException: No results found.\"",
+        "descripcion": "I tried to use DDGS to search for images in Jupyter Notebook with fastai, but the search seems to be not very stable. Most of time there turned out to be an ERROR:DDGSException: No results found.I ..."
+    },
+    {
+        "titulo": "Do ALL HTTPS requests in the browser derive from XMLHttpRequest and fetch API?",
+        "descripcion": "I'm trying to make a \"nearly universal interceptor\" package that can intercept all outgoing requests (coming soon...). I added interceptors for fetch API and XMLHttpRequest, and then got ..."
+    },
+    {
+        "titulo": "C-Style array on stack with variable length [closed]",
+        "descripcion": "I have a utility func as following whose main purpose is to fork a child process and call execv with necessary CLI parameters. In order to pass CLI parameters into execv, I prepare an array to store ..."
+    },
+    {
+        "titulo": "How files are processed?",
+        "descripcion": "I'm working on file merges and i have this code wrapped in a function with open('out.txt','ab') as out:   for d,_,f in path.walk():     with open(os.path.join(d,f),'rb') as in:       out.write( in...."
+    },
+    {
+        "titulo": "Dodgy void pointer arithmetic in C [duplicate]",
+        "descripcion": "I want to write (in C) library routines which create and use arrays of items whose size is unknown at compile time. So I create an 'array': void *item_array=malloc(arr_sz*item_sz); and a function ..."
+    }
+]
