@@ -1,0 +1,17 @@
+[
+{"pregunta": ["How to resolve metaprogramming function when variable is indirectly assigned a function name?"], "id": [0]},
+{"pregunta": ["Is it safe to read a QHash with multiple threads?"], "id": [1]},
+{"pregunta": ["NotBlank annotations does not work in my code"], "id": [2]},
+{"pregunta": ["Application Has No Explicit Mapping displays While Loading Users with One To Many Association"], "id": [3]},
+{"pregunta": ["Out of memory error when running vLLM with DeepSeek-R1-Distill-Llama-70B on 8\u00d7Nvidia 4090 GPUs"], "id": [4]},
+{"pregunta": ["\"Repacking\" 64 to 40 bits in AVX2"], "id": [5]},
+{"pregunta": ["Inkscape SVG misaligned when put into React+Vite project and won't rotate around hinge"], "id": [6]},
+{"pregunta": ["High RAM usage when using Datashader with dasked xarray"], "id": [7]},
+{"pregunta": ["Why has Flutter bumped up the default minSdkVersion to 24 from previous 21? Is this the new recommendation?"], "id": [8]},
+{"pregunta": ["Ardupilot + ROS2 Cartographer SLAM"], "id": [9]},
+{"pregunta": ["Expo SDK 53 upgrade: unable to resolve module ../core/AbiParameters.js"], "id": [10]},
+{"pregunta": ["Cassandra node cant resolve hostname in docker 2 nodes swarm"], "id": [11]},
+{"pregunta": ["dbt pyspark model in wsl local environment"], "id": [12]},
+{"pregunta": ["Why can\u2019t my Lambda function write to S3 even though it has the correct IAM policy?"], "id": [13]},
+{"pregunta": ["Why does Terraform return \u201cProvider configuration not present\u201d when using workspaces?"], "id": [14]}
+]
