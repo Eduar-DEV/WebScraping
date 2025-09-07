@@ -1,0 +1,142 @@
+[
+  {
+    "nombre": [
+      "Hotel Tou Nishinotoin Kyoto"
+    ],
+    "precio": [
+      "175367"
+    ],
+    "direccion": [
+      "455 Nishinotoincho Nishinotoindori HanayachoSagaru, Shimogyo-ku, Kioto 600-8327 Prefectura de Kioto"
+    ],
+    "amenities": [
+      "Estacionamiento público pagado cercano",
+      "Internet de alta velocidad gratuito (WiFi)",
+      "Bar/Salón",
+      "Servicio de taxi",
+      "Seguridad las 24 horas",
+      "Almacenamiento de equipaje",
+      "Check-in las 24 horas",
+      "Recepción disponible las 24 horas",
+      "Wi-Fi",
+      "Restaurante",
+      "Desayuno disponible",
+      "Té de cortesía",
+      "Bebida de bienvenida de cortesía",
+      "Comidas para niños",
+      "Máquina expendedora",
+      "Conserje",
+      "Hotel para no fumadores",
+      "Paraguas",
+      "Lavandería de autoservicio",
+      "Cortinas blackout",
+      "Purificador de aire",
+      "Aire acondicionado",
+      "Caja fuerte",
+      "Botellas de agua",
+      "Máquina de café/té",
+      "TV pantalla plana",
+      "Bañera/Ducha",
+      "Baños privados",
+      "Servicio de despertador/Reloj despertador",
+      "Refrigerador",
+      "Hervidor eléctrico",
+      "Productos de tocador de cortesía",
+      "Secador de pelo",
+      "Habitaciones para no fumadores",
+      "Suites"
+    ]
+  },
+  {
+    "nombre": [
+      "AMS Apartments Monjitas"
+    ],
+    "direccion": [
+      "Monjitas 744, Santiago 8320124 Chile"
+    ],
+    "amenities": [
+      "Estacionamiento público de pago en el establecimiento",
+      "Internet de alta velocidad gratuito (WiFi)",
+      "Internet",
+      "Piscina",
+      "Actividades infantiles (Ideal para niños / familias)",
+      "Transporte al aeropuerto",
+      "Instalaciones para hacer parrillas",
+      "Servicio de lavandería",
+      "Piscina al aire libre",
+      "Servicio de traslado en autobús",
+      "Cocina pequeña",
+      "Habitaciones para familias"
+    ]
+  },
+  {
+    "nombre": [
+      "Costa Serena"
+    ],
+    "precio": [
+      "72398"
+    ],
+    "direccion": [
+      "Los Pinos 435 Peninsula De Puerto Manzano, Villa La Angostura Q8407COK Argentina"
+    ],
+    "amenities": [
+      "Estacionamiento gratis",
+      "Internet gratuito",
+      "Gimnasio / Sala de entrenamiento",
+      "Piscina",
+      "Desayuno gratis",
+      "Sala de juegos",
+      "Billar",
+      "Spa",
+      "Wi-Fi",
+      "Bañera de hidromasaje",
+      "Piscina cubierta",
+      "Piscina al aire libre",
+      "Piscina climatizada",
+      "Desayuno disponible",
+      "Patio",
+      "Tenis de mesa",
+      "Masaje",
+      "Solárium",
+      "Sala de vapor",
+      "Instalaciones para hacer parrillas",
+      "Conserje",
+      "Hotel para no fumadores",
+      "Muebles de exterior",
+      "Reposeras/Sillas playeras",
+      "Sombrillas",
+      "Recepción disponible las 24 horas",
+      "Aire acondicionado",
+      "Servicio a la habitación",
+      "Cocina pequeña",
+      "Microondas",
+      "Minibar",
+      "Refrigerador",
+      "TV pantalla plana",
+      "Habitaciones para no fumadores",
+      "Suites",
+      "Habitaciones para familias"
+    ]
+  },
+  {
+    "nombre": [
+      "Hotel Goblin"
+    ],
+    "direccion": [
+      "Pirineos 0841, Temuco 4810147 Chile"
+    ],
+    "amenities": [
+      "Estacionamiento gratis",
+      "Garaje de estacionamientos",
+      "Internet de alta velocidad gratuito (WiFi)",
+      "Wi-Fi",
+      "Bar/Salón",
+      "Actividades infantiles (Ideal para niños / familias)",
+      "Hotel para no fumadores",
+      "Check-in y check-out exprés",
+      "Servicio de limpieza",
+      "Habitaciones para no fumadores",
+      "Habitaciones para familias"
+    ]
+  }
+]

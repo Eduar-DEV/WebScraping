@@ -51,6 +51,6 @@ class TripAdvisor(CrawlSpider):
         loader.add_xpath("nombre", "//h1[@id='HEADING']/text()")
         loader.add_xpath("precio", "//div[@data-automation='finalPrice']/text()", MapCompose(self.quitarSimboloDolar))
         loader.add_xpath("direccion", '//div[contains(concat(" ", normalize-space(@class), " "), " irnhs ") and contains(concat(" ", normalize-space(@class), " "), " f ") and contains(concat(" ", normalize-space(@class), " "), " k ")]//span[contains(concat(" ", normalize-space(@class), " "), " biGQs ") and contains(concat(" ", normalize-space(@class), " "), " _P ") and contains(concat(" ", normalize-space(@class), " "), " AWdfh ")]/text()')
-        loader.add_xpath("amenities", '//div[contains(concat(" ", normalize-space(@class), " "), " gFttI ") and contains(concat(" ", normalize-space(@class), " "), " f ") and contains(concat(" ", normalize-space(@class), " "), " _c ")]/text()')
+        loader.add_xpath("amenities", '//div[contains(@class, "gFttI") and contains(@class, "_c")]//div[@data-test-target="amenity_text"]//text()')
 
         yield loader.load_item()
