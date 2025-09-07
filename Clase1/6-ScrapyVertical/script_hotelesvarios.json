@@ -1,0 +1,86 @@
+[
+  {
+    "nombre": [
+      "Hotel Tou Nishinotoin Kyoto"
+    ],
+    "precio": [
+      "175367"
+    ],
+    "direccion": [
+      "455 Nishinotoincho Nishinotoindori HanayachoSagaru, Shimogyo-ku, Kioto 600-8327 Prefectura de Kioto"
+    ]
+  },
+  {
+    "nombre": [
+      "AMS Apartments Monjitas"
+    ],
+    "direccion": [
+      "Monjitas 744, Santiago 8320124 Chile"
+    ]
+  },
+  {
+    "nombre": [
+      "Costa Serena"
+    ],
+    "precio": [
+      "72398"
+    ],
+    "direccion": [
+      "Los Pinos 435 Peninsula De Puerto Manzano, Villa La Angostura Q8407COK Argentina"
+    ]
+  },
+  {
+    "nombre": [
+      "Hotel Goblin"
+    ],
+    "direccion": [
+      "Pirineos 0841, Temuco 4810147 Chile"
+    ]
+  },
+  {
+    "nombre": [
+      "Ipanema Beach House"
+    ],
+    "precio": [
+      "75548"
+    ],
+    "direccion": [
+      "Rua Barão da Torre, 485, Río de Janeiro, Estado de Río de Janeiro 22411-003 Brasil"
+    ]
+  },
+  {
+    "nombre": [
+      "Hostal Vida 2000"
+    ],
+    "direccion": [
+      "Ismael valdes 245, Santa Cruz 56 Chile"
+    ]
+  },
+  {
+    "nombre": [
+      "Alto Suite Providencia"
+    ],
+    "direccion": [
+      "Avenida Pedro de Valdivia 150, Santiago 7510185 Chile"
+    ]
+  },
+  {
+    "nombre": [
+      "Divani Palace Acropolis"
+    ],
+    "precio": [
+      "264828"
+    ],
+    "direccion": [
+      "Parthenónos 19 - 25, Atenas 117 42 Grecia"
+    ]
+  },
+  {
+    "nombre": [
+      "Seven Apart Hotel"
+    ],
+    "direccion": [
+      "Roger de Flor 2907, Santiago 7550000 Chile"
+    ]
+  }
+]
